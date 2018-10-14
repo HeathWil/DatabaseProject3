@@ -6,5 +6,8 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre7/sqljdbc41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heath/Documents/GitHub/DatabaseProject3/mysql-connector-java-8.0.12.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
