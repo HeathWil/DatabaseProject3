@@ -60,6 +60,6 @@ public class Driver {
 			System.out.println("Exception caught: " + e);
 		}
 		
-		//example from https://www.javatpoint.com/example-to-connect-to-the-mysql-database
+		
 	}
 }
